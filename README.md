@@ -61,7 +61,7 @@ Feel free to execute these commands in your command line interface to initialize
 In this section, let's explore the Git workflow and how changes move through different stages.
 
 ## Git Workflow Overview
-```mermaid
+```
 
  Working Folder                 Staging Area                   Local Git Repository                Remote Repository
 
