@@ -64,15 +64,12 @@ In this section, let's explore the Git workflow and how changes move through dif
 ```
 
  Working Folder                 Staging Area                   Local Git Repository                Remote Repository
-
 +----------------+            +----------------+               +-------------------+              +-------------------+
-
 |                |            |                |               |                   |              |                   |
-
+|                |            |                |               |                   |              |                   |
 |   Your Files   |  git add   |    Staged      |  git commit   |   Local Commits   |  git push    |   Remote Commits  |
-
 |                |  --------> |    Changes     |  -----------> |                   |  ----------> |                   |
-
+|                |            |                |               |                   |              |                   |
 +----------------+            +----------------+               +-------------------+              +-------------------+
 ```
 
