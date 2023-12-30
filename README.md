@@ -1,5 +1,26 @@
 # Welcome to the Git and GitHub Learning Repository
 
+- [Welcome to the Git and GitHub Learning Repository](#welcome-to-the-git-and-github-learning-repository)
+  - [Getting Started](#getting-started)
+  - [Install Git](#install-git)
+  - [Command Breakdown](#command-breakdown)
+- [Understanding Git Workflow](#understanding-git-workflow)
+  - [Git Workflow Overview](#git-workflow-overview)
+  - [Git Init](#git-init)
+  - [Git Add](#git-add)
+  - [Git Commit](#git-commit)
+  - [Git Branch](#git-branch)
+  - [Git Remote](#git-remote)
+  - [Git Push](#git-push)
+  - [Git Pull](#git-pull)
+  - [Git Checkout](#git-checkout)
+  - [Git Clean](#git-clean)
+  - [Basic Git Commands](#basic-git-commands)
+  - [User Configuration](#user-configuration)
+  - [Git Ignore](#git-ignore)
+  - [Learning Markdown](#learning-markdown)
+
+
 This repository has been created with the sole purpose of helping you learn and understand Git and GitHub. Whether you're a beginner taking your first steps into version control or looking to refine your skills, you're in the right place.
 
 ## Getting Started
