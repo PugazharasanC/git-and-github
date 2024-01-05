@@ -377,13 +377,13 @@ Certainly! Let's add symbols to the necessary places:
 
 Effectively documenting your projects requires a grasp of Markdown. Here are resources to help you get started:
 
-+ **[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet){:target="_blank"}**
++ **[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)**
   - A comprehensive guide to Markdown syntax. 📚
 
-+ **[Markdown Tutorial](https://www.markdowntutorial.com/){:target="_blank"}**
++ **[Markdown Tutorial](https://www.markdowntutorial.com/)**
   - An interactive tutorial for hands-on learning. 🤓
 
-+ **[Markdown Guide](https://www.markdownguide.org/){:target="_blank"}**
++ **[Markdown Guide](https://www.markdownguide.org/)**
   - A detailed guide to mastering Markdown. 📘
 
 Feel free to explore these resources at your own pace and enhance your Markdown skills. Happy coding and documenting! 📝
