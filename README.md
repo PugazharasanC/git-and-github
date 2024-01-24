@@ -18,7 +18,7 @@
   - [Basic Git Commands 💻](#basic-git-commands-)
   - [User Configuration 👤](#user-configuration-)
   - [Git Ignore 🚫](#git-ignore-)
-  - [Learning Markdown 📝](#learning-markdown-)
+- [Learning Markdown 📝](#learning-markdown-)
 
 
 This repository has been created with the sole purpose of helping you learn and understand Git and GitHub. Whether you're a beginner taking your first steps into version control or looking to refine your skills, you're in the right place.
@@ -373,7 +373,7 @@ This ensures that Git excludes specified files and directories from version cont
 
 Certainly! Let's add symbols to the necessary places:
 
-## Learning Markdown 📝
+# Learning Markdown 📝
 
 Effectively documenting your projects requires a grasp of Markdown. Here are resources to help you get started:
 
